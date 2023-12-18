@@ -3,6 +3,7 @@
 
 ## Paper Datasets
 
+1. DiffusionDB [[Website](https://poloclub.github.io/diffusiondb/)] [[ArXiv](https://arxiv.org/abs/2210.14896)] [[Dataset](https://huggingface.co/datasets/poloclub/diffusiondb)]
 1. ImageNet Large Scale Visual Recognition Challenge [[Paper](https://ieeexplore.ieee.org/abstract/document/5206848)] [[ArXiv](https://arxiv.org/abs/1409.0575)] [[Dataset](https://www.image-net.org/)]
 1. Learning Robust Global Representations by Penalizing Local Predictive Power (ImageNet-Sketch dataset) [[Paper](https://proceedings.neurips.cc/paper/2019/hash/3eefceb8087e964f89c2d59e8a249915-Abstract.html)] [[ArXiv](https://arxiv.org/abs/1905.13549)] [[Repo](https://github.com/HaohanWang/ImageNet-Sketch)] [[HuggingFace](https://huggingface.co/datasets/imagenet_sketch)]
 1. ADE20K Dataset [[Paper](https://ieeexplore.ieee.org/document/8100027)] [[ArXiv](https://people.csail.mit.edu/bzhou/publication/scene-parse-camera-ready.pdf)] [[Dataset](https://groups.csail.mit.edu/vision/datasets/ADE20K/)]
